@@ -1,4 +1,3 @@
 # kocko-py-repo
 networking tools development
-from ccna engineer
-////
+from ccna engineer.
